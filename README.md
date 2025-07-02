@@ -2,4 +2,4 @@ This repository contains interactive and insightful Power BI dashboards created 
 
 ##  Dashboard Preview
 
-![Dashboard Screenshot]("C:\Users\utkar\OneDrive\Pictures\Screenshots\Screenshot 2025-07-01 235604.png")
+![Dashboard Screenshot](Screenshot 2025-07-01 235604.png)
